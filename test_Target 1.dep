@@ -1,0 +1,4 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\S3C2440.s)(0x532BF1C2)(--cpu ARM920T -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung--list .\s3c2440.lst --xref -o .\s3c2440.o --depend .\s3c2440.d)
+F (.\main.c)(0x56ADF89B)(-c --cpu ARM920T -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Samsung-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
